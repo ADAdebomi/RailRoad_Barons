@@ -1,0 +1,2 @@
+# RailRoad_Barons
+Classroom Project with a fellow classmate creating our own implementation of the RailRoad Baron game from the ground up. The project involves using the GUI MVC system all through. The game involves 4 players who are color coded and can own railroad depending on if they met the requirements and conditions and whichever player ends up with the highest number of points win. The point system is a complex system that considers various possibilities before awarding points to any player.
